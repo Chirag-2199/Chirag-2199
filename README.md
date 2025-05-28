@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chirag 👋
 
-<!--
-**Chirag-2199/Chirag-2199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer from Punjab, India passionate about building performant and beautiful web apps.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- React.js | Next.js | Node.js | MongoDB | Tailwind CSS | Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [Job Portal](https://github.com/Chirag-2199/nextjs-job-portal) — A full-stack Next.js job portal app
+- [TradeFlow CRM](https://github.com/Chirag-2199/tradeflow-crm) — A CRM built with Laravel and Vue.js
+
+### 📈 GitHub Stats
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirag-2199&show_icons=true&theme=radical)
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/chirag2199/)
+- [Portfolio](https://chirag.dev)
+- chiragkumar2199@gmail.com
