@@ -95,6 +95,18 @@ Built with:
 
 ---
 
+## 🌟 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirag-2199&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-2199&theme=radical" alt="Contribution Streak" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-2199&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chirag2199/)
