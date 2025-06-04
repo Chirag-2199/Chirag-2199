@@ -9,7 +9,7 @@ I architect blazing-fast web experiences that blend aesthetic elegance with tech
 
 ## 🧠 About Me
 
-- 🎓 BCA final-year student at Dashmesh Khalsa College, Muktsar
+- 🎓 BCA graduated from Panjab University , Chandigarh 
 - 💼 Former SDE Intern at **Cactus Communications** & **VerveBridge**
 - 🧩 Problem solver with a strong grasp on DSA, OOPs, DBMS, Networking, and REST APIs
 - 💻 Contributor to high-impact products across domains like CRM, job boards, marketplaces, and productivity tools
