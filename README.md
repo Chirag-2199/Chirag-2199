@@ -9,10 +9,12 @@ I architect blazing-fast web experiences that blend aesthetic elegance with tech
 
 ## 🧠 About Me
 
-- 🎓 BCA graduated from Panjab University , Chandigarh 
+- 🎓 BCA graduate from Panjab University, Chandigarh  
+- 💼 Currently working at **Sterling Inc** as a **Software Developer**  
 - 💼 Former SDE Intern at **Cactus Communications** & **VerveBridge**
 - 🧩 Problem solver with a strong grasp on DSA, OOPs, DBMS, Networking, and REST APIs
-- 💻 Contributor to high-impact products across domains like CRM, job boards, marketplaces, and productivity tools
+- 💻 Contributor to high-impact products across CRM, job boards, marketplaces, and productivity tools
+- 📊 1.5+ years of **professional software development experience**
 
 ---
 
@@ -24,6 +26,7 @@ I architect blazing-fast web experiences that blend aesthetic elegance with tech
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash)
 
 **Frontend Sorcery**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
@@ -33,28 +36,37 @@ I architect blazing-fast web experiences that blend aesthetic elegance with tech
 ![ShadCN](https://img.shields.io/badge/-ShadCN_UI-blueviolet)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js)
+![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=laravel)
 
 **Backend Wizardry**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)
+![WebSockets](https://img.shields.io/badge/-WebSockets-FFA500)
 
-**DevOps & Tools**  
+**DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-orange?logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/-Lambda-F90?logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render)
+
+**Toolbelt & Testing**  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)
-![WebSockets](https://img.shields.io/badge/-WebSockets-FFA500)
+![Flux](https://img.shields.io/badge/-Flux-3F4C8C?logo=redux)
 
 ---
 
